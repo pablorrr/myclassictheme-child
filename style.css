@@ -1,0 +1,15 @@
+/*
+ Theme Name:   My Classic Theme Child
+ Theme URI:    http://example.com/myuniversaltheme-child/
+ Description:  Child  Theme from My Classic Theme
+ Author:       author name
+ Author URI:   http://example.com
+ Template:     myclassictheme
+ Version:      1.0.0
+*/
+
+
+#main > h2 {font-size: 5em;}
+
+
+
